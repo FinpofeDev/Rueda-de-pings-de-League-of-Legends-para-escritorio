@@ -27,8 +27,8 @@ Rueda de pings estilo **League of Legends** para tu escritorio. Usa la rueda rad
 Requiere Python 3.10+ (3.12 recomendado).
 
 ```bash
-git clone https://github.com/<tu-usuario>/ping-wheel.git
-cd ping-wheel
+git clone https://github.com/FinpofeDev/Rueda-de-pings-de-League-of-Legends-para-escritorio.git
+cd Rueda-de-pings-de-League-of-Legends-para-escritorio
 pip install -r requirements.txt
 python ping_wheel.py
 ```
